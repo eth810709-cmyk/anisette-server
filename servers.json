@@ -1,8 +1,8 @@
 {
   "servers": [
     {
-      "name": "SideStore",
-      "address": "https://ani.sidestore.io"
+      "name": "My Server",
+      "address": "https://anisette-v3-server-y4dl.onrender.com"
     },
     {
       "name": "SideStore (.app)",
